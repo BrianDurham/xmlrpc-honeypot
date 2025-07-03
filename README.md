@@ -43,4 +43,4 @@ MIT License – free to use, modify, and redistribute with attribution.
 
 ## Author
 
-Maintained by [Your Name or Handle]. Contributions and feedback are welcome.
+Maintained by [BrianDurham]. Contributions and feedback are welcome.
