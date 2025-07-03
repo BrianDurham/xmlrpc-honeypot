@@ -45,5 +45,5 @@ MIT License – free to use, modify, and redistribute with attribution.
 
 Maintained by [BrianDurham]. Contributions and feedback are welcome.
 
-**Support this project:** [ko-fi.com/fromfilm](https://ko-fi.com/fromfilm)
+**Support this project:** [ko-fi.com/BrianDurham](https://ko-fi.com/BrianDurham)
 
